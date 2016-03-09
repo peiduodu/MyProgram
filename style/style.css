@@ -210,15 +210,9 @@
     text-align: center;
     cursor: pointer;
   }
-/*=============最小支持 800*600===========*/
-@media (min-width: 800px) and (max-width: 1024px) {
+/*=============最小支持 1024*768===========*/
+@media (min-width: 1024px) and (max-width: 1366px) {
 	.header-order li {
     margin-left: 10px;
   }
-  .describe-detail {
-    width: 98%;
-	}
-	p {
-		font-family:Helvetica;
-	}
 }
