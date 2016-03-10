@@ -124,7 +124,7 @@
   .about h2, .list h2, .funding-history h2, .recent-press h2 {
   	font-size: 27px;
     color: #BEBEBE;
-    margin-left: 10px;
+    margin: 60px 10px 0px 10px;
   }
   .about p {
   	width: 42%;
